@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/testRouting",
+            "serve": "http://bsabeer.com",
+            "statusCode": 301
+        }
+    ]
+}
