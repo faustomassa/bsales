@@ -1,9 +1,18 @@
 {
     "routes": [
         {
-            "route": "/testRouting",
-            "serve": "http://bsabeer.com",
-            "statusCode": 301
+            "route": ["/fog*","/mozkito*","/moondin*","/sagf*","/leone*","/gallo*","/sorriso*","/crock*","/furia*","/luserta*","/hellrice*"]
+            "redirect": "http://bsabeer.com",
+        }
+        
+        {
+            "route": "/wpdev*",
+            "redirect": "http://bsaleswpdev.westeurope.cloudapp.azure.com"
+        }
+                
+        {
+            "route": "/intranet*",
+            "redirect": "https://bsalessrl.sharepoint.com"
         }
     ]
 }
