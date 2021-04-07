@@ -1,7 +1,7 @@
 {
     "routes": [
         {
-            "route": ["/fog*","/mozkito*","/moondin*","/sagf*","/leone*","/gallo*","/sorriso*","/crock*","/furia*","/luserta*","/hellrice*"]
+            "route": ["/fog*","/mozkito*","/moondin*","/sagf*","/leone*","/gallo*","/sorriso*","/crock*","/furia*","/luserta*","/hellrice*"],
             "redirect": "http://bsabeer.com",
         }
         
