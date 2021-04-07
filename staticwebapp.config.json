@@ -52,5 +52,14 @@
             "route": "/intranet*",
             "redirect": "https://bsalessrl.sharepoint.com"
         }
-    ]
+    ],
+    
+     "responseOverrides": {
+        "404": {
+            "redirect": "http://bsabeer.com",
+            "statusCode": 200
+        }
+    }
+    
+    
 }
