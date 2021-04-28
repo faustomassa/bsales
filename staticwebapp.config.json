@@ -2,47 +2,47 @@
     "routes": [
         {
             "route": "/fog*",
-            "redirect": "http://bsabeer.com"
+            "redirect": "https://bsabeer.it/prodotto/fog/"
         },
         {
             "route": "/mozkito*",
-            "redirect": "http://bsabeer.com"
+            "redirect": "https://bsabeer.it/prodotto/mozkito/"
         },
         {
             "route": "/moondin*",
-            "redirect": "http://bsabeer.com"
+            "redirect": "https://bsabeer.it/prodotto/moondin/"
         },
         {
             "route": "/sagf*",
-            "redirect": "http://bsabeer.com"
+            "redirect": "https://bsabeer.it/prodotto/sagf/"
         },
         {
             "route": "/leone*",
-            "redirect": "http://bsabeer.com"
+            "redirect": "https://bsabeer.it/prodotto/bionda-del-leone/"
         },
         {
             "route": "/gallo*",
-            "redirect": "http://bsabeer.com"
+            "redirect": "https://bsabeer.it/prodotto/rossa-del-gallo/"
         },
         {
             "route": "/sorriso*",
-            "redirect": "http://bsabeer.com"
+            "redirect": "https://bsabeer.it/prodotto/sorriso/"
         },
         {
             "route": "/crock*",
-            "redirect": "http://bsabeer.com"
+            "redirect": "https://bsabeer.it/prodotto/crock/"
         },
         {
             "route": "/furia*",
-            "redirect": "http://bsabeer.com"
+            "redirect": "https://bsabeer.it/prodotto/furia/"
         },
         {
             "route": "/luserta*",
-            "redirect": "http://bsabeer.com"
+            "redirect": "https://bsabeer.it/prodotto/luserta/"
         },
         {
             "route": "/hellrice*",
-            "redirect": "http://bsabeer.com"
+            "redirect": "https://bsabeer.it/prodotto/hellrice/"
         },
         {
             "route": "/wpdev*",
@@ -56,7 +56,7 @@
     
      "responseOverrides": {
         "404": {
-            "redirect": "http://bsabeer.com",
+            "redirect": "http://bsabeer.it",
             "statusCode": 200
         }
     }
